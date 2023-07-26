@@ -1,5 +1,5 @@
-class First{
+class pravtice{
   public static void main(String[] args){
-    System.out.printIn("Javaを楽しもう！");
+    System.out.println("Javaを楽しもう！");
   }
 }
